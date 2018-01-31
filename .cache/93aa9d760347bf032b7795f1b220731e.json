@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>My App</title>\n  </head>\n  <body>\n    <div id=\"root\"></div>\n    <script src=\"/dist/reactoR.js\"></script>\n  </body>\n</html>\n"},"hash":"180145048ad77d78b69ded36dc91379b","cacheData":{}}
