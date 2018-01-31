@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #D9FFFE;
+}
+
+li {
+  list-style-type : none;
+}
